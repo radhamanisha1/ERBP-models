@@ -1,0 +1,11 @@
+This repo has 4 sub folderes comprising E(RBP) code base
+
+1. DATA folder - has data files
+2. RBP-methods - Early, Mid and Late Fusion codes
+3. Transformer-relational-rep - Absolute, Relative and ERBP codes
+4. Utils - data utils (data_essen and data_other)
+        dr_utils (used in late fusion -dr inp to out mapping)
+        utils (gridsearch)
+
+ Datasets used : Essen Folk Song Collection, J.S.Bach Chorales and Nottingham
+ Code written in Pytorch (works with Python 3.6 and above)
